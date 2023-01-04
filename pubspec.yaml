@@ -1,6 +1,6 @@
 name: tiktok_dl
 description: package to get media info from tiktok.
-version: 1.0.1
+version: 1.0.3
 homepage: https://github.com/allanpereira99/tiktok_dl
 
 environment:
@@ -11,4 +11,5 @@ dev_dependencies:
   test: ^1.16.0
 
 dependencies:
+  html: ^0.15.1
   http: '>=0.13.5<1.0.0'

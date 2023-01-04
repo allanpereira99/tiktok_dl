@@ -12,7 +12,7 @@ This will add a line like this to your package's pubspec.yaml (and run an implic
 
 ```sh
 dependencies:
-  tiktok_dl: ^1.0.1
+  tiktok_dl: ^1.0.3
 ```
 Alternatively, your editor might support dart pub get or flutter pub get. Check the docs for your editor to learn more.
 
